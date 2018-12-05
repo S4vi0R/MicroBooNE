@@ -1,0 +1,691 @@
+%MSG-i MF_INIT_OK:  Early 30-Nov-2018 19:53:20 CST JobSetup
+Messagelogger initialization complete.
+%MSG
+30-Nov-2018 19:53:21 CST  Initiating request to open input file "./prod_eminus_0.1-2.0GeV_isotropic_uboone_20181201T012947_gen_20181201T013015_g4_20181201T014552_detsim_20181201T014720_reco1_20181201T015317_reco2.root"
+30-Nov-2018 19:53:21 CST  Opened input file "./prod_eminus_0.1-2.0GeV_isotropic_uboone_20181201T012947_gen_20181201T013015_g4_20181201T014552_detsim_20181201T014720_reco1_20181201T015317_reco2.root"
+Begin processing the 1st record. run: 1 subRun: 0 event: 1 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 1
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 53
+N Clusters    : 3
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 1
+N Showers     : 0
+N PCAxes      : 0
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           14
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.837453
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  53
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.838819
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 2nd record. run: 1 subRun: 0 event: 2 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 2
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 37
+N Clusters    : 3
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 1
+N Showers     : 0
+N PCAxes      : 0
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           14
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.515262
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  37
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.543819
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 3rd record. run: 1 subRun: 0 event: 3 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 3
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 3
+N SpacePoints : 56
+N Clusters    : 6
+N Vertices    : 3
+N Metadata    : 3
+N Tracks      : 2
+N Showers     : 0
+N PCAxes      : 0
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           2
+- Id            2
+- Primary       
+- PDG           14
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.931957
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   2
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        2
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  44
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.620788
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           1
+    - Id            1
+    - Parent        2
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  12
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.711729
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 4th record. run: 1 subRun: 0 event: 4 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 4
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 51
+N Clusters    : 2
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 0
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.661143
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  51
+    - # Cluster     2
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.41575
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 5th record. run: 1 subRun: 0 event: 5 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 5
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 37
+N Clusters    : 3
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 0
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.700441
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  37
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.473089
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 6th record. run: 1 subRun: 0 event: 6 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 6
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 58
+N Clusters    : 3
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 0
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.689754
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  58
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.292228
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 7th record. run: 1 subRun: 0 event: 7 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 7
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 2
+N SpacePoints : 34
+N Clusters    : 3
+N Vertices    : 2
+N Metadata    : 2
+N Tracks      : 0
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           1
+- Id            1
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.199424
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   1
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        1
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  34
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.423847
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 8th record. run: 1 subRun: 0 event: 8 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 8
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 3
+N SpacePoints : 42
+N Clusters    : 5
+N Vertices    : 3
+N Metadata    : 3
+N Tracks      : 1
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           2
+- Id            2
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.691297
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   2
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        2
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  22
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.390839
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           1
+    - Id            1
+    - Parent        2
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  20
+    - # Cluster     2
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.728561
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 9th record. run: 1 subRun: 0 event: 9 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 9
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 3
+N SpacePoints : 46
+N Clusters    : 5
+N Vertices    : 3
+N Metadata    : 3
+N Tracks      : 1
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           2
+- Id            2
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.687341
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   2
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        2
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  29
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.436216
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           1
+    - Id            1
+    - Parent        2
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  17
+    - # Cluster     2
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.525646
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+Begin processing the 10th record. run: 1 subRun: 0 event: 10 at 30-Nov-2018 19:53:24 CST
+
+
+--------------------------------------------------------------------------------- Event 
+run: 1 subRun: 0 event: 10
+pandoraPatRec
+--------------------------------------------------------------------------------
+N PFParticles : 3
+N SpacePoints : 49
+N Clusters    : 5
+N Vertices    : 3
+N Metadata    : 3
+N Tracks      : 1
+N Showers     : 1
+N PCAxes      : 1
+--------------------------------------------------------------------------------
+
+--------------------------------
+PFParticle
+--------------------------------
+- Key           2
+- Id            2
+- Primary       
+- PDG           12
+--------------------------------
+- # SpacePoint  0
+- # Cluster     0
+- # Vertex      1
+- # Track       0
+- # Shower      0
+- # PCAxis      0
+- # Metadata    1
+-- Property     IsNeutrino, value 1
+-- Property     NuScore, value 0.552491
+-- Property     SliceIndex, value 1
+--------------------------------
+- # Daughters   2
+--------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           0
+    - Id            0
+    - Parent        2
+    - PDG           11
+    --------------------------------
+    - # SpacePoint  41
+    - # Cluster     3
+    - # Vertex      1
+    - # Track       0
+    - # Shower      1
+    - # PCAxis      1
+    - # Metadata    1
+    -- Property     TrackScore, value 0.123857
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+
+    --------------------------------
+    PFParticle
+    --------------------------------
+    - Key           1
+    - Id            1
+    - Parent        2
+    - PDG           13
+    --------------------------------
+    - # SpacePoint  8
+    - # Cluster     2
+    - # Vertex      1
+    - # Track       1
+    - # Shower      0
+    - # PCAxis      0
+    - # Metadata    1
+    -- Property     TrackScore, value 0.811551
+    --------------------------------
+    - # Daughters   0
+    --------------------------------
+--------------------------------------------------------------------------------
+30-Nov-2018 19:53:24 CST  Closed input file "./prod_eminus_0.1-2.0GeV_isotropic_uboone_20181201T012947_gen_20181201T013015_g4_20181201T014552_detsim_20181201T014720_reco1_20181201T015317_reco2.root"
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 10 passed = 10 failed = 0
+
+TrigReport ------ Modules in End-Path: end_path ------------
+TrigReport  Trig Bit#        Run    Success      Error Name
+TrigReport     0    0         10         10          0 dump
+
+TimeReport ---------- Time  Summary ---[sec]----
+TimeReport CPU = 0.084988 Real = 0.164332
+
+MemReport  ---------- Memory  Summary ---[base-10 MB]----
+MemReport  VmPeak = 997.413 VmHWM = 428.454
+
+Art has completed and will exit with status 0.
